@@ -1,1 +1,13 @@
+EXP 8: Create a Virtual Hard Disk and Allocate Storage
+AIM:
+To create a virtual hard disk and allocate storage using a Type-2 hypervisor.
+PROCEDURE:
+STEP 1: Select the created virtual machine.
+STEP 2: Click on Edit Virtual Machine Settings.
+STEP 3: Navigate to the Hard Disk / Storage option.
+STEP 4: Click Add New Hard Disk.
+STEP 5: Choose disk type (VDI / VMDK).
+STEP 6: Select Dynamically Allocated storage.
+STEP 7: Specify the disk size and click Finish.
+STEP 8: Virtual hard disk is successfully created and allocated.
 
